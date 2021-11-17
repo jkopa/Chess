@@ -1,5 +1,5 @@
-mod game;
+mod game_loop;
 
 fn main() {
-    game::run();
+    game_loop::run();
 }
